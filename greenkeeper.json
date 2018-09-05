@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "nodejs_server/package.json",
+        "nodejs_server/views/package.json"
+      ]
+    }
+  }
+}
