@@ -1,4 +1,7 @@
 # Precisely (Project Marylou)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/FreddieLindsey/precisely.svg)](https://greenkeeper.io/)
+
 Created by Franklin Schrans (iOS developer), Freddie Lindsey (NodeJS, Express, Server requests), Amin Karamlou (Server-side) in the context of the IC HACK 15' hackathon.
 
 ## Components
